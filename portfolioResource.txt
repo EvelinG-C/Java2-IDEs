@@ -1,0 +1,24 @@
+GitHub is known to be used as a portfolio for many
+aspiring programmers who wish to demonstrate their
+skills to future employers. While looking at the
+different GitHub portfolios that many have created,
+I have come up with some ideas that I could use
+for my own portfolio. To begin, I would update my 
+GitHub profile page to include a professional
+picture of myself, an interesting, but simple biography, 
+my contact information, my social media, and my website.
+I would customize my README.md file to add
+more information about myself, my top projects, my skills, 
+my passions, etc. Additionally, I would pin my top projects 
+that I would like employers to view that demonstrates 
+proficiency in my skills. 
+
+On another note, GitHub also has a feature that allows its users to 
+create their own website. Using this feature, I can custom-make my 
+website to be simple and minimalistic. I can use a domain name 
+extension such as .me, .dev, and .tech to make it more professional. 
+On my website, I can list my skills, experience, education, and certificates 
+that pertain to my career. Additionally, I can display my best works for 
+employers to view and assess. Finally, I can add a contact me 
+page with my social media attached, so that those who are interested
+can reach out to me. 
