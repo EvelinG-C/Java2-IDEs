@@ -1,0 +1,11 @@
+The IDE I chose for this course is Eclipse. I chose Eclipse
+mainly because I have a semester worth of experience using
+this IDE for creating my coding projects. As such I feel
+comfortable using Eclipse and I would rather use it instead
+of learning a new IDE. Choosing a new IDE would be a
+learning curve as I would have to learn a new gui and features.
+It would take away time from learning the course material.
+Instead, with Eclipse, I can use what I already know and
+build on top of it. Furthermore, Eclipse has an easy git
+integration feature, which will be useful for completing
+projects in this course.  
