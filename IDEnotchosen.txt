@@ -5,8 +5,8 @@ of object interactions, and illustrations of UML charts. Even
 though BlueJ has it's advantages, it would still be a learning
 curve and would take away time from me learning the course material.
 Furthermore, another con for this IDE is that it can't handle big
-projects, which will become a hastle in the future when my
+projects, which will become a hassle in the future when my
 projects become more complex. On another note, I already have
-an IDE that I am comfortable using and I am knowledgable about.
+an IDE that I am comfortable using and I am knowledgeable about.
 As such, I believe that it would be bothersome to learn a new 
 IDE when I already have one that I frequently use. 
